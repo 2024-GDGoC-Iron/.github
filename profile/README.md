@@ -20,10 +20,10 @@
 # Members
 <table>
       <tr>
-        <td><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></td>
-        <td><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></td>
-        <td><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></td>
-        <td><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></td>
+        <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
+        <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
+        <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
+        <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
       </tr>
       <tr>
         <td align="center">기획자</td>
