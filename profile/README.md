@@ -2,7 +2,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="logo" src="https://avatars.githubusercontent.com/ruthgyeul">
-      <h1>2024 GDGoC 프로젝트 마라톤 2기: Team Iron</h1>
+      <h1 href="https://main.d3qoor7bke8h3n.amplifyapp.com">2024 GDGoC 프로젝트 마라톤 2기: Team Iron</h1>
       <p>simple description simple description simple description simple description </p>
     </summary>
   </ul>
