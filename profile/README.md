@@ -38,7 +38,7 @@
 <table>
       <tr>
         <td><a href="https://github.com/raymond1203"><img width="150" height="150" align="center" alt="raymond1203" src="https://avatars.githubusercontent.com/raymond1203"></a></td>
-        <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
+        <td><a href="https://github.com/github"><img width="150" height="150" align="center" alt="github" src="https://avatars.githubusercontent.com/github"></a></td>
         <td><a href="https://github.com/blue-ssom"><img width="150" height="150" align="center" alt="blue-ssom" src="https://avatars.githubusercontent.com/blue-ssom"></a></td>
         <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
       </tr>
