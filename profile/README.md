@@ -2,7 +2,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <img width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="logo" src="https://avatars.githubusercontent.com/ruthgyeul">
-      <h1><a href="https://main.d3qoor7bke8h3n.amplifyapp.com">2024 GDGoC 프로젝트 마라톤 2기: Team Iron</a></h1>
+      <h1><a href="https://main.d3096mo4zl8ipo.amplifyapp.com">2024 GDGoC 프로젝트 마라톤 2기: Team Iron</a></h1>
       <p>인픽(InPick) | AI 기반 맞춤형 교수-학생 상담 매칭 서비스</p>
     </summary>
   </ul>
