@@ -88,7 +88,7 @@
 |Backend|https://github.com/2024-GDGoC-Iron/backend|
 |Design|https://github.com/2024-GDGoC-Iron/design|
 
-# Result 
-- 우수상, SW중심대학사업단장상 - 2등상
+# Award Result 
+### 우수상, SW중심대학사업단장상 - 2등상
 <img width=auto height=auto max-width=800px max-height=800px align="center" alt="award" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/award.jpeg">
 
