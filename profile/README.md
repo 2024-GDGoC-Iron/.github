@@ -43,7 +43,20 @@
 3. 관리 시스템
 
 # Preview
-<img width=auto height=auto max-width=800px max-height=800px align="center" alt="preview" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview.png">
+### Landing Page
+<img width=auto height=auto max-width=800px max-height=800px align="center" alt="landing" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview.png">
+
+### Chatting Page
+<img width=auto height=auto max-width=800px max-height=800px align="center" alt="chatting" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview2.png">
+
+### Chat Summary
+<img width=auto height=auto max-width=800px max-height=800px align="center" alt="chatSummary" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview3.png">
+
+### Professor Info
+<img width=auto height=auto max-width=800px max-height=800px align="center" alt="professorInfo" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview4.png">
+
+### Matching Request
+<img width=auto height=auto max-width=800px max-height=800px align="center" alt="matchingRequest" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview5.png">
 
 # Members
 <table>
