@@ -52,7 +52,7 @@
         <td><a href="https://github.com/Ruthgyeul"><img width="150" height="150" align="center" alt="ruthgyeul" src="https://avatars.githubusercontent.com/ruthgyeul"></a></td>
       </tr>
       <tr>
-        <td align="center">기획자</td>
+        <td align="center">기획자/풀스택</td>
         <td align="center">디자이너</td>
         <td align="center">백엔드</td>
         <td align="center">프론트엔드</td>
