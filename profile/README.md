@@ -2,7 +2,7 @@
   <ul align="left" style="list-style: none">
     <summary>
       <img width="230" height="100" align="left" style="float: left; align-content: center; margin: 0 10px 0 0;" alt="IN!PICK" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/logo.png" href="https://main.d3096mo4zl8ipo.amplifyapp.com"/>
-      <h1><a href="https://main.d3096mo4zl8ipo.amplifyapp.com">2024 GDGoC 프로젝트 마라톤 2기: Team Iron</a></h1>
+      <h1><a href="https://youtu.be/aLS6L-4FwHg?si=x0o1CDyGN8hE3eIo">2024 GDGoC 프로젝트 마라톤 2기: Team Iron</a></h1>
       <p>인픽(IN!PICK) | AI 기반 맞춤형 대학원 진학을 위한 교수-학생 상담 매칭 서비스</p>
     </summary>
   </ul>
