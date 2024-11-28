@@ -58,6 +58,9 @@
 ### Matching Request
 <img width=auto height=auto max-width=800px max-height=800px align="center" alt="matchingRequest" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/preview5.png">
 
+# Architecture
+<img width=auto height=auto max-width=600px max-height=600px align="center" alt="matchingRequest" src="https://github.com/2024-GDGoC-Iron/.github/blob/main/Architecture.jpeg">
+
 # Members
 <table>
       <tr>
